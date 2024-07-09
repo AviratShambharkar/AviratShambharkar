@@ -13,8 +13,16 @@
   - React and Redux: Building modern web applications with advanced state management.
   - Cloud Computing: Getting hands-on experience with AWS and Azure services.
     
-### 💞️ I’m looking to collaborate on ...
-### 📫 How to reach me ...
+### 💞️ I’m looking to collaborate on:
+  - Open Source Projects: Contributing to meaningful open-source initiatives and learning from the community.
+  - Web Development Projects: Building responsive and dynamic web applications using modern frameworks and technologies.
+  - Machine Learning Models: Developing and fine-tuning models for various applications, including natural language processing and computer vision.
+  - Hackathons and Competitions: Participating in hackathons and coding competitions to solve real-world problems.
+
+### 📫 How to reach me:
+  -  You can reach me through the following platforms:
+    
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avirat-shambharkar-71241b283/)
 ### 😄 Pronouns: ...
 ### ⚡ Fun fact: ...
 
