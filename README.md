@@ -27,7 +27,7 @@
 
 ## 🚀 About Me 
 
-### I am interested in...
+### 👀 I am interested in:
 
 - **Artificial Intelligence and Machine Learning**: Exploring the latest advancements in AI and building intelligent systems.
 - **Web Development**: Creating dynamic and responsive web applications using modern frameworks and technologies.
@@ -36,24 +36,30 @@
 - **Competitive Programming**: Solving algorithmic problems on platforms like [LeetCode](https://leetcode.com/u/AVIRATSHAMBHARKAR/) and [GeeksForGeeks](https://www.geeksforgeeks.org/user/aviratkbqj/).
     
 ### 🌱 I’m currently learning:
-  - Machine Learning: Exploring algorithms and models to create predictive applications.
-  - React and Redux: Building modern web applications with advanced state management.
-  - Cloud Computing: Getting hands-on experience with AWS and Azure services.
+
+  - **Machine Learning**: Exploring algorithms and models to create predictive applications.
+  - **React and Redux**: Building modern web applications with advanced state management.
+  - **Cloud Computing**: Getting hands-on experience with AWS and Azure services.
     
 ### 💞️ I’m looking to collaborate on:
-  - Open Source Projects: Contributing to meaningful open-source initiatives and learning from the community.
-  - Web Development Projects: Building responsive and dynamic web applications using modern frameworks and technologies.
-  - Machine Learning Models: Developing and fine-tuning models for various applications, including natural language processing and computer vision.
-  - Hackathons and Competitions: Participating in hackathons and coding competitions to solve real-world problems.
+
+  - **Open Source Projects**: Contributing to meaningful open-source initiatives and learning from the community.
+  - **Web Development Projects**: Building responsive and dynamic web applications using modern frameworks and technologies.
+  - **Machine Learning Models**: Developing and fine-tuning models for various applications, including natural language processing and computer vision.
+  - **Hackathons and Competitions**: Participating in hackathons and coding competitions to solve real-world problems.
 
 ### 📫 How to reach me:
-  -  You can reach me through the following platforms:
+  -  **You can reach me through the following platforms**:
     
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avirat-shambharkar-71241b283/)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Aviratbaka)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aviratshambharkar@gmail.com)
+  
 ### 😄 Pronouns: He/Him
-### ⚡ Fun fact: ...
+
+### ⚡ Fun fact:
+  - I enjoy watching anime and can discuss my favorite series for hours!
+  - In my free time, I love playing chess and improving my strategic thinking skills.
 
 <!---
 AviratShambharkar/AviratShambharkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
