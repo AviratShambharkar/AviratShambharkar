@@ -23,6 +23,8 @@
   -  You can reach me through the following platforms:
     
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avirat-shambharkar-71241b283/)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Aviratbaka)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aviratshambharkar@gmail.com)
 ### 😄 Pronouns: ...
 ### ⚡ Fun fact: ...
 
