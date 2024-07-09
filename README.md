@@ -1,5 +1,5 @@
 #  Hi there, I’m @AviratShambharkar👋
-   Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and currently pursuing my B.Tech from Visvesvaraya National Institute of Technology. I love exploring new technologies, creating engaging content, and contributing to the tech community.
+   Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and currently pursuing my B.Tech from **Visvesvaraya National Institute of Technology**. I love exploring new technologies, creating engaging content, and contributing to the tech community.
 
 ## 🛠️ Skills and Tools
 
