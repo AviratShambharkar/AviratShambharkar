@@ -1,6 +1,16 @@
 #  Hi there, I’m @AviratShambharkar👋
    Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and currently pursuing my B.Tech from Visvesvaraya National Institute of Technology. I love exploring new technologies, creating engaging content, and contributing to the tech community.
-## About Me 🚀
+
+## 🛠️ Skills and Tools
+
+### Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## 🚀 About Me 
 
 ### 👀 I’m interested in:
   - Artificial Intelligence and Machine Learning: Exploring the latest advancements in AI and building intelligent systems.
@@ -25,7 +35,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avirat-shambharkar-71241b283/)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Aviratbaka)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aviratshambharkar@gmail.com)
-### 😄 Pronouns: ...
+### 😄 Pronouns: He/Him
 ### ⚡ Fun fact: ...
 
 <!---
