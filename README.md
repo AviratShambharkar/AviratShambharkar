@@ -17,14 +17,23 @@
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools and Platforms
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 🚀 About Me 
 
-### 👀 I’m interested in:
-  - Artificial Intelligence and Machine Learning: Exploring the latest advancements in AI and building intelligent systems.
-  - Web Development: Creating dynamic and responsive web applications using modern frameworks and technologies.
-  - Open Source Contribution: Contributing to open-source projects and collaborating with developers from around the world.
-  - Cloud Computing: Leveraging cloud platforms like AWS, Azure, and Google Cloud to build scalable and efficient applications.
+### I am interested in...
+
+- **Artificial Intelligence and Machine Learning**: Exploring the latest advancements in AI and building intelligent systems.
+- **Web Development**: Creating dynamic and responsive web applications using modern frameworks and technologies.
+- **Open Source Contribution**: Contributing to open-source projects and collaborating with developers from around the world.
+- **Cloud Computing**: Leveraging cloud platforms like AWS, Azure, and Google Cloud to build scalable and efficient applications.
+- **Competitive Programming**: Solving algorithmic problems on platforms like [LeetCode](https://leetcode.com/your-username/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/your-username/practice/).
     
 ### 🌱 I’m currently learning:
   - Machine Learning: Exploring algorithms and models to create predictive applications.
