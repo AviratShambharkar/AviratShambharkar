@@ -33,7 +33,7 @@
 - **Web Development**: Creating dynamic and responsive web applications using modern frameworks and technologies.
 - **Open Source Contribution**: Contributing to open-source projects and collaborating with developers from around the world.
 - **Cloud Computing**: Leveraging cloud platforms like AWS, Azure, and Google Cloud to build scalable and efficient applications.
-- **Competitive Programming**: Solving algorithmic problems on platforms like [LeetCode](https://leetcode.com/your-username/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/your-username/practice/).
+- **Competitive Programming**: Solving algorithmic problems on platforms like [LeetCode](https://leetcode.com/u/AVIRATSHAMBHARKAR/) and [GeeksForGeeks](https://www.geeksforgeeks.org/user/aviratkbqj/).
     
 ### 🌱 I’m currently learning:
   - Machine Learning: Exploring algorithms and models to create predictive applications.
